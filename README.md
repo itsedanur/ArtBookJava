@@ -16,8 +16,7 @@ Bu Android uygulaması, kullanıcıların kendi sanat eserlerini isim, sanatçı
 - RecyclerView
 - ActivityResultLauncher
 
-## 📷 Ekran Görüntüleri
-(Görselleri buraya ekleyebilirsin)
+
 
 ## 🚀 Başlatmak için
 Projeyi Android Studio ile aç, `MainActivity`'i çalıştırarak uygulamayı emülatörde veya gerçek cihazda test edebilirsin.

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArtBookJava</string>
+    <string name="title_activity_art">ArtActivity</string>
+    <string name="title_activity_art1">ArtActivity1</string>
+</resources>
